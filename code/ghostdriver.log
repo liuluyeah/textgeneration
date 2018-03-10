@@ -1,0 +1,97 @@
+[INFO  - 2018-01-22T13:11:37.908Z] GhostDriver - Main - running on port 9410
+[INFO  - 2018-01-22T13:11:41.295Z] Session [c9605680-ff75-11e7-8c92-49191ee0c3c0] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2018-01-22T13:11:41.295Z] Session [c9605680-ff75-11e7-8c92-49191ee0c3c0] - page.customHeaders:  - {}
+[INFO  - 2018-01-22T13:11:41.295Z] Session [c9605680-ff75-11e7-8c92-49191ee0c3c0] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"windows-10-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2018-01-22T13:11:41.295Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: c9605680-ff75-11e7-8c92-49191ee0c3c0
+[ERROR - 2018-01-22T13:12:26.761Z] Session [c9605680-ff75-11e7-8c92-49191ee0c3c0] - page.onError - msg: TypeError: null is not an object (evaluating 'r.split')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-01-22T13:12:26.762Z] Session [c9605680-ff75-11e7-8c92-49191ee0c3c0] - page.onError - stack:
+  value (https://www.huobi.pro/commons.d2c02a3b4bba206a95fc.js:19)
+  (anonymous function) (https://www.huobi.pro/commons.d2c02a3b4bba206a95fc.js:19)
+  emit (https://www.huobi.pro/commons.d2c02a3b4bba206a95fc.js:19)
+  value (https://www.huobi.pro/commons.d2c02a3b4bba206a95fc.js:19)
+  l (https://www.huobi.pro/commons.d2c02a3b4bba206a95fc.js:19)
+  (anonymous function) (https://www.huobi.pro/commons.d2c02a3b4bba206a95fc.js:19)
+  (anonymous function) (https://www.huobi.pro/commons.d2c02a3b4bba206a95fc.js:19)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-01-22T13:13:09.485Z] Session [c9605680-ff75-11e7-8c92-49191ee0c3c0] - page.onError - msg: TypeError: null is not an object (evaluating 'r.split')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-01-22T13:13:09.485Z] Session [c9605680-ff75-11e7-8c92-49191ee0c3c0] - page.onError - stack:
+  value (https://www.huobi.pro/commons.d2c02a3b4bba206a95fc.js:19)
+  (anonymous function) (https://www.huobi.pro/commons.d2c02a3b4bba206a95fc.js:19)
+  emit (https://www.huobi.pro/commons.d2c02a3b4bba206a95fc.js:19)
+  value (https://www.huobi.pro/commons.d2c02a3b4bba206a95fc.js:19)
+  l (https://www.huobi.pro/commons.d2c02a3b4bba206a95fc.js:19)
+  (anonymous function) (https://www.huobi.pro/commons.d2c02a3b4bba206a95fc.js:19)
+  (anonymous function) (https://www.huobi.pro/commons.d2c02a3b4bba206a95fc.js:19)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-01-22T13:15:18.506Z] Session [c9605680-ff75-11e7-8c92-49191ee0c3c0] - page.onError - msg: TypeError: null is not an object (evaluating 'r.split')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-01-22T13:15:18.506Z] Session [c9605680-ff75-11e7-8c92-49191ee0c3c0] - page.onError - stack:
+  value (https://www.huobi.pro/commons.d2c02a3b4bba206a95fc.js:19)
+  (anonymous function) (https://www.huobi.pro/commons.d2c02a3b4bba206a95fc.js:19)
+  emit (https://www.huobi.pro/commons.d2c02a3b4bba206a95fc.js:19)
+  value (https://www.huobi.pro/commons.d2c02a3b4bba206a95fc.js:19)
+  l (https://www.huobi.pro/commons.d2c02a3b4bba206a95fc.js:19)
+  (anonymous function) (https://www.huobi.pro/commons.d2c02a3b4bba206a95fc.js:19)
+  (anonymous function) (https://www.huobi.pro/commons.d2c02a3b4bba206a95fc.js:19)
+
+  phantomjs://platform/console++.js:263 in error
+[INFO  - 2018-01-22T13:16:37.913Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[ERROR - 2018-01-22T13:18:03.719Z] Session [c9605680-ff75-11e7-8c92-49191ee0c3c0] - page.onError - msg: TypeError: null is not an object (evaluating 'r.split')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-01-22T13:18:03.719Z] Session [c9605680-ff75-11e7-8c92-49191ee0c3c0] - page.onError - stack:
+  value (https://www.huobi.pro/commons.d2c02a3b4bba206a95fc.js:19)
+  (anonymous function) (https://www.huobi.pro/commons.d2c02a3b4bba206a95fc.js:19)
+  emit (https://www.huobi.pro/commons.d2c02a3b4bba206a95fc.js:19)
+  value (https://www.huobi.pro/commons.d2c02a3b4bba206a95fc.js:19)
+  l (https://www.huobi.pro/commons.d2c02a3b4bba206a95fc.js:19)
+  (anonymous function) (https://www.huobi.pro/commons.d2c02a3b4bba206a95fc.js:19)
+  (anonymous function) (https://www.huobi.pro/commons.d2c02a3b4bba206a95fc.js:19)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-01-22T13:18:45.883Z] Session [c9605680-ff75-11e7-8c92-49191ee0c3c0] - page.onError - msg: TypeError: null is not an object (evaluating 'r.split')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-01-22T13:18:45.883Z] Session [c9605680-ff75-11e7-8c92-49191ee0c3c0] - page.onError - stack:
+  value (https://www.huobi.pro/commons.d2c02a3b4bba206a95fc.js:19)
+  (anonymous function) (https://www.huobi.pro/commons.d2c02a3b4bba206a95fc.js:19)
+  emit (https://www.huobi.pro/commons.d2c02a3b4bba206a95fc.js:19)
+  value (https://www.huobi.pro/commons.d2c02a3b4bba206a95fc.js:19)
+  l (https://www.huobi.pro/commons.d2c02a3b4bba206a95fc.js:19)
+  (anonymous function) (https://www.huobi.pro/commons.d2c02a3b4bba206a95fc.js:19)
+  (anonymous function) (https://www.huobi.pro/commons.d2c02a3b4bba206a95fc.js:19)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-01-22T13:19:28.261Z] Session [c9605680-ff75-11e7-8c92-49191ee0c3c0] - page.onError - msg: TypeError: null is not an object (evaluating 'r.split')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-01-22T13:19:28.262Z] Session [c9605680-ff75-11e7-8c92-49191ee0c3c0] - page.onError - stack:
+  value (https://www.huobi.pro/commons.d2c02a3b4bba206a95fc.js:19)
+  (anonymous function) (https://www.huobi.pro/commons.d2c02a3b4bba206a95fc.js:19)
+  emit (https://www.huobi.pro/commons.d2c02a3b4bba206a95fc.js:19)
+  value (https://www.huobi.pro/commons.d2c02a3b4bba206a95fc.js:19)
+  l (https://www.huobi.pro/commons.d2c02a3b4bba206a95fc.js:19)
+  (anonymous function) (https://www.huobi.pro/commons.d2c02a3b4bba206a95fc.js:19)
+  (anonymous function) (https://www.huobi.pro/commons.d2c02a3b4bba206a95fc.js:19)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-01-22T13:20:11.593Z] Session [c9605680-ff75-11e7-8c92-49191ee0c3c0] - page.onError - msg: TypeError: null is not an object (evaluating 'r.split')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-01-22T13:20:11.593Z] Session [c9605680-ff75-11e7-8c92-49191ee0c3c0] - page.onError - stack:
+  value (https://www.huobi.pro/commons.d2c02a3b4bba206a95fc.js:19)
+  (anonymous function) (https://www.huobi.pro/commons.d2c02a3b4bba206a95fc.js:19)
+  emit (https://www.huobi.pro/commons.d2c02a3b4bba206a95fc.js:19)
+  value (https://www.huobi.pro/commons.d2c02a3b4bba206a95fc.js:19)
+  l (https://www.huobi.pro/commons.d2c02a3b4bba206a95fc.js:19)
+  (anonymous function) (https://www.huobi.pro/commons.d2c02a3b4bba206a95fc.js:19)
+  (anonymous function) (https://www.huobi.pro/commons.d2c02a3b4bba206a95fc.js:19)
+
+  phantomjs://platform/console++.js:263 in error
